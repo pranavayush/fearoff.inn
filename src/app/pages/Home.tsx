@@ -11,7 +11,7 @@ export default function Home() {
             <div className="bg-gradient-to-br from-indigo-500 to-purple-600 p-2 rounded-lg shadow-lg">
               <BookOpen className="w-6 h-6 text-white" />
             </div>
-            <h1 className="text-2xl gradient-text">FearOff Dashboard</h1>
+            <h1 className="text-2xl gradient-text">FearOff Portal</h1>
           </div>
         </div>
       </header>
@@ -25,7 +25,7 @@ export default function Home() {
             </div>
           </div>
           <h1 className="text-4xl sm:text-5xl lg:text-6xl mb-4 text-gray-800">
-            Welcome to <span className="gradient-text">FearOff Portal</span>
+            Welcome to <span className="gradient-text">FearOff Dashboard</span>
           </h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
             A modern learning platform connecting students and teachers
